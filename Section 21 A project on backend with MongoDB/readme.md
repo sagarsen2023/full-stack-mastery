@@ -7,7 +7,7 @@ JavaScript is primarily a client-side scripting language, designed to run in the
 ## Using JavaScript for Backend Development
 
 ### Node.js
-Node.js is a powerful runtime environment that allows JavaScript to be executed on the server side. It provides a rich set of libraries and modules to handle various backend functionalities, making it possible to build scalable and efficient server-side applications.
+Node.js is a powerful runtime environment that allows JavaScript to be executed on the server side. It provides a rich set of libraries and modules to handle various backend functionalities, making it possible to build scalable and efficient server-side applications. The V8 engine of Chrome is taken by Ryan Dahl. He added a wrapper of JS to the V8 engine and he created node.js  
 
 ### Bun
 Bun is another modern JavaScript runtime that aims to be faster and more efficient than Node.js. It also allows developers to run JavaScript on the server side, providing similar capabilities to Node.js but with improved performance and developer experience.
